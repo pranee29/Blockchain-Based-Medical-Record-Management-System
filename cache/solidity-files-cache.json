@@ -1,0 +1,106 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\Praneeth\\Major_Project\\blockchain\\contracts\\BCMedical1.sol": {
+      "lastModificationDate": 1679576292780,
+      "contentHash": "f91bb7d6468fd082374219a4619629e9",
+      "sourceName": "contracts/BCMedical1.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.7"
+      ],
+      "artifacts": [
+        "BCMedical1"
+      ]
+    },
+    "C:\\Users\\Praneeth\\Major_Project\\blockchain\\contracts\\MedicalRecord2.sol": {
+      "lastModificationDate": 1681653085762,
+      "contentHash": "5cb38bbaaffb560e67bd3aac749818dd",
+      "sourceName": "contracts/MedicalRecord2.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [],
+      "artifacts": []
+    },
+    "C:\\Users\\Praneeth\\Major_Project\\blockchain\\contracts\\FinalContract.sol": {
+      "lastModificationDate": 1681667812670,
+      "contentHash": "c9b34b5b7c49db504074a23638c6f11d",
+      "sourceName": "contracts/FinalContract.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.7"
+      ],
+      "artifacts": [
+        "FinalContract"
+      ]
+    }
+  }
+}
